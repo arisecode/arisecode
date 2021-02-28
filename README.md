@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdfauzan93&theme=dracula&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=muhdfauzan93&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
+Hi, I'm Fauzan - A FullStack Developer. 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### :pencil: Skills
+<h2>✏️ Skills</h2>
 
 * Programming Language - Javascript, Typescript, Kotlin, Java, Dart
 * Frontend - Kotlin, Flutter, Vue JS
