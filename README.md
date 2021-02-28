@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Fauzan - A FullStack Developer. 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h2>✏️ Skills</h2>
 
@@ -61,6 +61,6 @@ Hi, I'm Fauzan - A FullStack Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdfauzan93&repo=network-connectivity-check&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
 </a>
 
-### 🧑‍💻  This week, I spent my time on:
+## 🧑‍💻  This week, I spent my time on: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fauzan&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
