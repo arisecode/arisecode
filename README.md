@@ -5,10 +5,10 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 
 <h2>✏️ Skills</h2>
 
-* Programming Language - Javascript, Typescript, Kotlin, Java, Dart
-* Frontend - Kotlin, Flutter, Vue JS
+* Programming Language - Javascript, Typescript, Kotlin, Java, Dart, Golang, Swift
+* Frontend - Kotlin, Flutter, NextJS, TailwindCSS
 * Game Development - Unity
-* Backend - NodeJS, Express JS, Spring Boot, ASP.NET Core
+* Backend - NodeJS, Express JS, Spring Boot, ASP.NET Core, Fiber
 * Database - MySQL, SQLite, PostgreSQL, MongoDB
 * CI / CD - Github Actions, Gitlab Runner
 * Deployment - Heroku, AWS, Docker, Firebase, Digital Ocean, Serverless, Kubernetes
