@@ -1,4 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![wakatime](https://wakatime.com/badge/user/47f75574-2966-4f48-97b1-6e8cb232b740.svg)](https://wakatime.com/@47f75574-2966-4f48-97b1-6e8cb232b740)
+[![github](https://img.shields.io/github/followers/muhdfauzan93?logo=github&style=plastic)](https://github.com/muhdfauzan93?tab=followers)
 
 Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
