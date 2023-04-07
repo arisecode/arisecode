@@ -46,11 +46,11 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdfauzan93&theme=dracula&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=muhdfauzan93&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhdfauzan93&theme=dracula)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhdfauzan93&theme=dracula)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhdfauzan93&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhdfauzan93&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhdfauzan93&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhdfauzan93&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhdfauzan93&theme=dracula)
 
 ## 🏆 GitHub Trophies
 
