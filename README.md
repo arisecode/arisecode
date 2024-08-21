@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![wakatime](https://wakatime.com/badge/user/47f75574-2966-4f48-97b1-6e8cb232b740.svg)](https://wakatime.com/@47f75574-2966-4f48-97b1-6e8cb232b740)
-[![github](https://img.shields.io/github/followers/muhdfauzan93?logo=github&style=plastic)](https://github.com/muhdfauzan93?tab=followers)
+[![github](https://img.shields.io/github/followers/nightcodezero?logo=github&style=plastic)](https://github.com/nightcodezero?tab=followers)
 
 Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -46,25 +46,25 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhdfauzan93&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhdfauzan93&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhdfauzan93&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhdfauzan93&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhdfauzan93&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightcodezero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightcodezero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightcodezero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightcodezero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightcodezero&theme=dracula)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=muhdfauzan93&theme=dracula&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=nightcodezero&theme=dracula&margin-w=10)
 
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/muhdfauzan93/Android-MVVM-Architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdfauzan93&repo=Android-MVVM-Architecture&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
+<a href="https://github.com/nightcodezero/Android-MVVM-Architecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=Android-MVVM-Architecture&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
 </a>
 
-<a href="https://github.com/muhdfauzan93/KatSini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdfauzan93&repo=KatSini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+<a href="https://github.com/nightcodezero/KatSini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=KatSini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
 </a>
 
 ## 🧑‍💻  This week, I spent my time on: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
