@@ -57,12 +57,12 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 ![](https://github-profile-trophy.vercel.app/?username=nightcodezero&theme=dracula&margin-w=10)
 
 
-## 🕊️ Open Source Projects
+##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Open Source Projects
 
 <a href="https://github.com/nightcodezero/katsini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=katsini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
 </a>
 
-## 🧑‍💻  This week, I spent my time on: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## 🧑‍💻  This week, I spent my time on:
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fauzan&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
