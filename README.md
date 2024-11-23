@@ -44,7 +44,7 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightcodezero&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightcodezero&theme=dracula)
@@ -57,14 +57,10 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 ![](https://github-profile-trophy.vercel.app/?username=nightcodezero&theme=dracula&margin-w=10)
 
 
-## 🗂️ Highlight Projects
+## 🕊️ Open Source Projects
 
-<a href="https://github.com/nightcodezero/Android-MVVM-Architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=Android-MVVM-Architecture&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
-</a>
-
-<a href="https://github.com/nightcodezero/KatSini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=KatSini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+<a href="https://github.com/nightcodezero/katsini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=katsini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
 </a>
 
 ## 🧑‍💻  This week, I spent my time on: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
