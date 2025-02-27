@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![wakatime](https://wakatime.com/badge/user/47f75574-2966-4f48-97b1-6e8cb232b740.svg)](https://wakatime.com/@47f75574-2966-4f48-97b1-6e8cb232b740)
-[![github](https://img.shields.io/github/followers/nightcodezero?logo=github&style=plastic)](https://github.com/nightcodezero?tab=followers)
+[![github](https://img.shields.io/github/followers/arisecode?logo=github&style=plastic)](https://github.com/arisecode?tab=followers)
 
 Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -46,21 +46,21 @@ Hi, I'm Fauzan - A FullStack Developer.  <img src="https://media.giphy.com/media
 
 ## 📈 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightcodezero&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightcodezero&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightcodezero&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightcodezero&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightcodezero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arisecode&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arisecode&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arisecode&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisecode&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arisecode&theme=dracula)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nightcodezero&theme=dracula&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=arisecode&theme=dracula&margin-w=10)
 
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Open Source Projects
 
-<a href="https://github.com/nightcodezero/katsini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcodezero&repo=katsini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
+<a href="https://github.com/arisecode/katsini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arisecode&repo=katsini&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Fauzan" />
 </a>
 
 ## 🧑‍💻  This week, I spent my time on:
